@@ -7,9 +7,9 @@ export default class Sobre extends React.Component {
 
     render() {
         return (
-            <div>
-                <h1 className="title"> Page Sobre </h1>
-            </div>
+
+            <h1 className="title">Sobre nós</h1>
+
         );
     }
 }

@@ -8,7 +8,7 @@ export default class Home extends React.Component {
     render() {
         return (
             <div>
-                <h1 className="title">App Base - Home</h1>
+                <h1 className="title">Bem vindo à nossa página</h1>
             </div>
         );
     }

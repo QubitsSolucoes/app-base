@@ -18,7 +18,8 @@
     "webpack-dev-server": "^2.3.0"
   },
   "scripts": {
-    "dev": "webpack-dev-server --inline --hot --history-api-fallback --content-base public"
+    "dev": "webpack-dev-server --inline --hot --history-api-fallback --content-base public",
+    "dev2": "webpack-dev-server --inline --hot --content-base public"
   },
   "author": "Vinicius Vinhas",
   "license": "MIT"
